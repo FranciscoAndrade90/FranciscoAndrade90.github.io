@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Short CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,54 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Distributed Optimization, Instituto Superior Técnico, 2022 (with distinction)
+* MSc in Pure Mathematics *with a focus on Differential Geometry*, Imperial College London, 2016 (with distinction)
+* BSc in Mathematics with minor in Mathematics, Faculdade de Ciências da Universidade do Porto, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2025-present: Post-Doc researcher 
+  * INRIA Montpellier (PreMeDICaL team)
+  * Working with: Julie Josse, Moreno Ursino and Sarah Zohar
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* January 2023-February 2025: Post-Doc researcher 
+  * ENS Paris
+  * Working with: Gabriel Peyré and Clarice Poon
