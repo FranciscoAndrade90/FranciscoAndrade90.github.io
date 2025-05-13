@@ -17,10 +17,10 @@ Education
 
 Work experience
 ======
-* February 2025-present: Post-Doc researcher 
+* February 2025-present: postdoctoral researcher 
   * INRIA Montpellier (PreMeDICaL team)
   * Working with: Julie Josse, Moreno Ursino and Sarah Zohar
 
-* January 2023-February 2025: Post-Doc researcher 
+* January 2023-February 2025: postdoctoral researcher 
   * ENS Paris
   * Working with: Gabriel Peyré and Clarice Poon
