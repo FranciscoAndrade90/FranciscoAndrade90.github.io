@@ -13,7 +13,7 @@ Francisco Andrade, Gabriel Peyré, Clarice Poon, 2025. [arXiv](https://www.arxiv
 
 - **Optimal Transport under Group Fairness Constraints**.\
  Linus Bleistein, Mathieu Dagréou, Francisco Andrade, Thomas Boudou, Aurélien Bellet.\
-ICML, 2026 (**Spotlight**). [arXiv](https://arxiv.org/pdf/2601.07144),
+ICML, 2026 (**Spotlight**). [arXiv](https://arxiv.org/pdf/2601.07144)
 
 - **Sparsistency for Inverse Optimal Transport**.\
  Francisco Andrade, Gabriel Peyré, Clarice Poon.\
