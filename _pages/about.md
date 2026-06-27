@@ -17,7 +17,8 @@ During my PhD ([IST Lisbon](https://tecnico.ulisboa.pt/pt)) I worked on *Distrib
 - Optimization
 - Optimal Transport
 - Inverse Problems
-- Statistics
+- Statistics and Causal Inference
+- Decentralized and Federated Learning
 - Medical applications
 
 ## News
