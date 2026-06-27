@@ -19,3 +19,7 @@ During my PhD ([IST Lisbon](https://tecnico.ulisboa.pt/pt)) I worked on *Distrib
 - Inverse Problems
 - Statistics
 - Medical applications
+
+## News
+
+- **Jun 2026** — Started organizing the [PreMeDICaL team's seminar](https://team.inria.fr/premedical/seminars/).
