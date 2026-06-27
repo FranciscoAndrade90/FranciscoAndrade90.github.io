@@ -6,6 +6,10 @@ redirect_from:
 - /publications.html
 ---
 ## Preprints:
+
+- **Sample complexity of unbalanced entropic OT**.\
+Francisco Andrade, Gabriel Peyré, Clarice Poon, 2026. [arXiv](https://arxiv.org/pdf/2606.24987)
+
 - **Learning from Samples: Inverse Problems over measures via Sharpened Fenchel-Young Losses**.\
 Francisco Andrade, Gabriel Peyré, Clarice Poon, 2025. [arXiv](https://www.arxiv.org/pdf/2505.07124)
 
