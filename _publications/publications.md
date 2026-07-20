@@ -7,6 +7,9 @@ redirect_from:
 ---
 ## Preprints:
 
+- **Causal Perspectives on Network Meta-Analysis**.\
+Ahmed Boughdiri, Francisco Andrade, Clément Berenfeld, Julie Josse, 2026. [arXiv](https://arxiv.org/pdf/2607.09200)
+
 - **Sample complexity of unbalanced entropic OT**.\
 Francisco Andrade, Gabriel Peyré, Clarice Poon, 2026. [arXiv](https://arxiv.org/pdf/2606.24987)
 
