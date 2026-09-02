@@ -23,4 +23,5 @@ During my PhD ([IST Lisbon](https://tecnico.ulisboa.pt/pt)) I worked on *Distrib
 
 ## News
 
+- **Sep 2026** — Started co-organizing the [ML-MTP Seminar](https://isdm.umontpellier.fr/les-halles-de-lia/machine-learning-in-montpellier-theory-practice/).
 - **Jun 2026** — Started organizing the [PreMeDICaL team's seminar](https://team.inria.fr/premedical/seminars/).
