@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 **Deep Learning: Generative Adversarial Networks** (second-year Master's)  
-Guest Lecturer (Cours Magistral), Université de Montpellier  
+Guest Lecturer (Cours Magistral), Polytech, Université de Montpellier  
 Montpellier, France — 2026 (upcoming)
 
 **Mathématiques pour l'informatique** (first-year undergraduate)  
