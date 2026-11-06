@@ -5,9 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+
+**Introduction to Causal Inference** (second-year Master's)  
+Guest Lecturer (Cours Magistral), Faculté de Pharmacie , Université de Limoges
+Online, France — June 2027 **(upcoming)** 
+
 **Deep Learning: Generative Adversarial Networks** (second-year Master's)  
 Guest Lecturer (Cours Magistral), Polytech, Université de Montpellier  
-Montpellier, France — 2026 (upcoming)
+Montpellier, France — 2026 
 
 **Mathématiques pour l'informatique** (first-year undergraduate)  
 Teaching Assistant (Travaux Dirigés), Université de Montpellier  
