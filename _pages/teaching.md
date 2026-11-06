@@ -7,7 +7,7 @@ author_profile: true
 
 
 **Introduction to Causal Inference** (DU d’Intelligence Artificielle en Pharmacologie Médicale.)  
-Guest Lecturer (Cours Magistral), Faculté de Pharmacie , Université de Limoges
+Guest Lecturer (Cours Magistral), Faculté de Pharmacie , Université de Limoges  
 Online, France — June 2027 **(upcoming)** 
 
 **Deep Learning: Generative Adversarial Networks** (second-year Master's)  
