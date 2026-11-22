@@ -9,8 +9,7 @@ A pair of [DataSHIELD](https://datashield.org) packages for estimating the avera
 The software follows DataSHIELD's client–server design:
 
 - **dsFedAte** (server side) is installed on each data server (Opal or Armadillo). It computes the local ATE statistics and enforces DataSHIELD's disclosure controls. [CRAN](https://cran.r-project.org/package=dsFedAte)
-- **dsFedAteClient** (client side) runs on the analyst's machine. It coordinates the analysis across the servers and combines their results through `ds.EstimateAte()`. [CRAN](https://cran.r-project.org/package=dsFedAteClient) · [GitHub](https://github.com/FranciscoAndrade90/dsFedAteClient)
-
+- **dsFedAteClient** (client side) runs on the analyst's machine. It coordinates the analysis across the servers and combines their results through `ds.EstimateAte()`. [CRAN](https://cran.r-project.org/package=dsFedAteClient) ·
 ### Installation
 
 ```r
