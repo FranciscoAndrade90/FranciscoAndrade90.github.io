@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * February 2025-present: postdoctoral researcher 
-  * INRIA Montpellier (PreMeDICaL team)
+  * Inria Montpellier (PreMeDICaL team)
   * Working with: Julie Josse
 
 * January 2023-February 2025: postdoctoral researcher 
