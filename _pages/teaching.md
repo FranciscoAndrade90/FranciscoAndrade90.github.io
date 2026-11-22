@@ -11,7 +11,7 @@ Guest Lecturer (Cours Magistral), Faculté de Pharmacie , Université de Limoges
 Online, France — June 2027 **(upcoming)** 
 
 
-**Deep Learning: Diffusion Models and GAN's** (second-year Master's)  
+**Deep Learning: Diffusion Models and GANs** (second-year Master's)  
 Guest Lecturer (Travaux Pratiques), Polytech, Université de Montpellier  
 Montpellier, France — 2026 
 
