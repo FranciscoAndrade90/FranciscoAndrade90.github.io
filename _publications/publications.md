@@ -7,6 +7,9 @@ redirect_from:
 ---
 ## Preprints:
 
+- **Federated average treatment effect estimation for multi-site RCTs with DataSHIELD**.\
+Francisco Andrade, Rémi Khellaf, Julie Josse, 2026. [Article](https://franciscoandrade90.github.io/fedate-datashield/)
+
 - **Causal Perspectives on Network Meta-Analysis**.\
 Ahmed Boughdiri, Francisco Andrade, Clément Berenfeld, Julie Josse, 2026. [arXiv](https://arxiv.org/pdf/2607.09200)
 
